@@ -1,5 +1,5 @@
 # SMTPyMailer
-## Sending an Email using SMTP Library in Python.. 
+## Sending Email using SMTP Library in Python.. 
 
 Sending an Email is a crucial functionality in many applications, and Python provides a convenient way to send emails using the SMTP (Simple Mail Transfer Protocol) library. The SMTP library in Python allows us to create an SMTP object, connect to an SMTP server, and send emails using this server...
 
